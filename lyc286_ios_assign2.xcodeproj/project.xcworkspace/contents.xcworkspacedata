@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:/Users/aman2909/Desktop/iOS/lyc286_ios_assign2/lyc286_ios_assign2/StudentArray.h">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/aman2909/Desktop/iOS/lyc286_ios_assign2/lyc286_ios_assign2/StudentArray.m">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/aman2909/Desktop/iOS/lyc286_ios_assign2/lyc286_ios_assign2/Student.h">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/aman2909/Desktop/iOS/lyc286_ios_assign2/lyc286_ios_assign2/Student.m">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/aman2909/Desktop/iOS/lyc286_ios_assign2/lyc286_ios_assign2/StudentInfoViewController.h">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/aman2909/Desktop/iOS/lyc286_ios_assign2/lyc286_ios_assign2/StudentInfoViewController.m">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/aman2909/Desktop/iOS/lyc286_ios_assign2/lyc286_ios_assign2/StudentInfo.h">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/aman2909/Desktop/iOS/lyc286_ios_assign2/lyc286_ios_assign2/StudentInfo.m">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/aman2909/Desktop/iOS/lyc286_ios_assign2/lyc286_ios_assign2/studentInfo.h">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/aman2909/Desktop/iOS/lyc286_ios_assign2/lyc286_ios_assign2/studentInfo.m">
+   </FileRef>
+   <FileRef
+      location = "group:../lyc286_ios_assign2/Assets.xcassets/AppIcon.appiconset/ios_icon.png">
+   </FileRef>
+   <FileRef
+      location = "group:../lyc286_ios_assign2/ios_icon.png">
+   </FileRef>
+   <FileRef
+      location = "self:lyc286_ios_assign2.xcodeproj">
+   </FileRef>
+</Workspace>
